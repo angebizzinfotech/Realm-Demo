@@ -1,0 +1,6 @@
+framework module Pods_RealmChatDemo {
+  umbrella header "Pods-RealmChatDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
